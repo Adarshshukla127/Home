@@ -1,44 +1,42 @@
-# ✨ Adarsh Shukla - Programmer | Poet | Developer | Writer  
+Adarsh Shukla – Programmer | Poet | Developer | Writer
+Hello! I am Adarsh Shukla, a B.Tech student in Computer Science & Data Science with a passion for both coding and literature.
+My goal is to combine technology and creativity to build something unique.
 
-नमस्ते! 🙏 मैं **आदर्श शुक्ला** हूँ, एक **B.Tech (Computer Science & Data Science) छात्र** जो कोडिंग और साहित्य दोनों की दुनिया से प्यार करता है। 💻📖  
-मेरा लक्ष्य **टेक्नोलॉजी और क्रिएटिविटी** को मिलाकर कुछ अद्वितीय बनाना है। 🚀  
+About Me
+B.Tech in Computer Science & Data Science from Maharishi University
 
----  
+Languages & Technologies: Java, Python, Kotlin, HTML, CSS, JavaScript
 
-## 🚀 About Me  
-- 🎓 **B.Tech in Computer Science & Data Science** | Maharishi University  
-- 💻 **Languages & Technologies:** Java | Python | Kotlin | HTML | CSS | JavaScript  
-- 📱 **Learning:** Android Development (Kotlin) | Full-Stack Web Development  
-- ✍️ **Hobby:** Hindi Poetry & Story Writing  
-- 🌐 **Currently Building:** A Personal Website for My Writings & Projects  
+Currently Learning: Android Development (using Kotlin), Full-Stack Web Development
 
----  
+Hobby: Writing Hindi poetry and stories
 
-## 🌟 My Skills  
-| Programming | Web Development | Android Development | Writing |  
-|------------|----------------|---------------------|---------|  
-| Java | HTML, CSS, JS | Kotlin, Jetpack Compose | Hindi Poetry & Stories |  
-| Python | React.js | Firebase | Blogging |  
-| Git & GitHub | Tailwind CSS | REST APIs | Creative Writing |  
+Currently Working On: A personal website to showcase my writings and projects
 
----  
+My Skills
+Programming	Web Development	Android Development	Writing
+Java	HTML, CSS, JavaScript	Kotlin, Jetpack Compose	Hindi Poetry and Stories
+Python	React.js	Firebase	Blogging
+Git & GitHub	Tailwind CSS	REST APIs	Creative Writing
 
-## 📌 My Ongoing Projects  
-🔹 **Apna Sahitya:** A personal poetry & stories website  
-🔹 **Poetry App:** An Android app for poetry lovers  
-🔹 **GitHub Portfolio:** Creating a perfect GitHub profile  
+Ongoing Projects
+Apna Sahitya: A personal website for poetry and stories
 
----  
+Poetry App: An Android application for poetry readers
 
-## 🔥 How to Use My Code?  
-अगर आप मेरे किसी भी प्रोजेक्ट को अपने कंप्यूटर पर **डाउनलोड और उपयोग** करना चाहते हैं, तो नीचे दिए गए स्टेप्स फॉलो करें:  
+GitHub Portfolio: Building a professional GitHub profile
 
-```sh
+How to Use My Code
+If you want to download and run any of my projects on your computer, follow the steps below:
+
+sh
+Copy
+Edit
 # Clone the repository
 git clone https://github.com/Adarshshukla127/Home.git
 
-# Move inside the project folder
+# Navigate to the project directory
 cd Home
 
 # Run the project (if applicable)
-python main.py  # Example command, replace with actual
+python main.py  # This is just an example. Replace with the correct command if different.
